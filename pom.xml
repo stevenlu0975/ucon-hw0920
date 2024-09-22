@@ -48,6 +48,8 @@
         </dependency>
 
     </dependencies>
-
+<build>
+    <finalName>hw3</finalName>
+</build>
   
 </project>
